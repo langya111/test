@@ -19,6 +19,9 @@ public class SendEmail2
    public static void main(String [] args)
    {
       // 收件人电子邮箱
+	   //
+	   //fdgsgsdfgs
+	   
       String to = "songer93@foxmail.com";
  
       // 发件人电子邮箱
